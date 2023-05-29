@@ -1,55 +1,49 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Qual a sua categoria favorita do iFood: Pizza ou Hambúrguer?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Se você fosse um ingrediente de comida, qual seria?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Queijo derretido", "alias":"A"},
+        {"id": 2, "name":"Bacon crocante", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Qual é o seu programa de TV favorito?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Man vs. Food", "alias":"B"},
+        {"id": 2, "name":"MasterChef", "alias":"A"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Escolha uma música para tocar enquanto você come:",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Cheeseburger in Paradise - Jimmy Buffett", "alias":"A"},
+        {"id": 2, "name":"That's Amore - Dean Martin", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Escolha apenas um molho para acompanhar sua comida:",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Maionese", "alias":"B"},
+        {"id": 2, "name":"Ketchup", "alias":"A"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Complete a frase: A vida é muito curta para...",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"...comer sem saborear cada mordida.", "alias":"A"},
+        {"id": 2, "name":"...se preocupar com calorias o tempo todo.", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Pizza",
+    "B": "Hambúrguer"
   }
 }
