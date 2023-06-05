@@ -1,0 +1,49 @@
+{
+  "title":"Qual a sua categoria favorita do iFood: Pizza ou Hambúrguer?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Se você fosse um ingrediente de comida, qual seria?",
+      "options":[
+        {"id": 1, "name":"Queijo derretido", "alias":"A"},
+        {"id": 2, "name":"Bacon crocante", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual é o seu programa de TV favorito?",
+      "options":[
+        {"id": 1, "name":"Man vs. Food", "alias":"B"},
+        {"id": 2, "name":"MasterChef", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Escolha uma música para tocar enquanto você come:",
+      "options":[
+        {"id": 1, "name":"Cheeseburger in Paradise - Jimmy Buffett", "alias":"A"},
+        {"id": 2, "name":"That's Amore - Dean Martin", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Escolha apenas um molho para acompanhar sua comida:",
+      "options":[
+        {"id": 1, "name":"Maionese", "alias":"B"},
+        {"id": 2, "name":"Ketchup", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Complete a frase: A vida é muito curta para...",
+      "options":[
+        {"id": 1, "name":"...comer sem saborear cada mordida.", "alias":"A"},
+        {"id": 2, "name":"...se preocupar com calorias o tempo todo.", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Pizza",
+    "B": "Hambúrguer"
+  }
+}
